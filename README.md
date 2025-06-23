@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. Replace the bot token in `bot.py`:
 
 ```python
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7947006389:AAF_Is6qsYLpdFxUydDkGM1DFsID6n6uXS0"
 ```
 
 4. Then start the bot:
